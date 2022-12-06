@@ -46,3 +46,19 @@ Other language(s):
 **SPOKEN PRODUCTION** A2 **SPOKEN INTERACTION** A2
 
 ## DIGITAL SKILLS
+
+Microsoft Office / Microsoft Word / Microsoft Excel / Microsoft Powerpoint / Zoom
+
+Google Drive / Skype / LinkedIn / GItLab / HTML5/CSS, Javascript / Typescript
+
+## ORGANISATIONAL SKILLS
+
+**Organisational skills:**
+
+Attention to detail, concision,analysis, analyzing Issues,problem solving,confidence,multitasking.
+
+## COMMUNICATION AND INTERPERSONAL SKILLS
+
+**Communication and interpersonal skills:**
+
+Listening,confidence,open-midedness,feedback,picking the right medium
