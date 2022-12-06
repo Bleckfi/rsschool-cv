@@ -1,1 +1,1 @@
-# rsschool-cv
+https://Bleckfi.github.io/rsschool-cv/
