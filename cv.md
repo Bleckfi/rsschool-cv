@@ -26,6 +26,23 @@
 
 - skills in programming languages(HTML/CSS, JS)
 
+- Git
+
 - basic skills (Python,C++, C#)
 
 - Foreign language (English)
+
+## Language skills
+
+Mother language(s):
+
+**Belarussian**, **Russian**
+
+Other language(s):
+
+**English**
+
+**LISTENING** B1 **READING** B1 **WRITING** A2
+**SPOKEN PRODUCTION** A2 **SPOKEN INTERACTION** A2
+
+## DIGITAL SKILLS
